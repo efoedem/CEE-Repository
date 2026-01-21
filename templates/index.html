@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CEE Course Repository</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-100 p-8">
+    <div class="max-w-4xl mx-auto bg-white p-8 rounded-xl shadow-lg">
+        <h1 class="text-3xl font-bold text-blue-900 border-b-2 pb-4 mb-6">CEE Study Materials</h1>
+
+        <div class="flex gap-4 mb-8">
+            <button onclick="loadLevel('100')" class="px-6 py-2 bg-blue-800 text-white rounded shadow hover:bg-blue-700">Level 100</button>
+            <button onclick="loadLevel('200')" class="px-6 py-2 bg-blue-800 text-white rounded shadow hover:bg-blue-700">Level 200</button>
+            <button onclick="loadLevel('300')" class="px-6 py-2 bg-blue-800 text-white rounded shadow hover:bg-blue-700">Level 300</button>
+            <button onclick="loadLevel('400')" class="px-6 py-2 bg-blue-800 text-white rounded shadow hover:bg-blue-700">Level 400</button>
+        </div>
+
+        <div id="content" class="hidden grid grid-cols-2 gap-8">
+            <div class="border p-4 rounded bg-gray-50">
+                <h2 class="text-xl font-bold text-blue-700 mb-4">Semester 1</h2>
+                <div id="courses-sem1" class="space-y-4"></div>
+            </div>
+            <div class="border p-4 rounded bg-gray-50">
+                <h2 class="text-xl font-bold text-blue-700 mb-4">Semester 2</h2>
+                <div id="courses-sem2" class="space-y-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadLevel(lvl) {
+            document.getElementById('content').classList.remove('hidden');
+            renderSem(lvl, '1', 'courses-sem1');
+            renderSem(lvl, '2', 'courses-sem2');
+        }
+
+        async function renderSem(lvl, sem, elementId) {
+            const res = await fetch(`/get_courses/${lvl}/${sem}`);
+            const data = await res.json();
+            const container = document.getElementById(elementId);
+            container.innerHTML = "";
+
+            data.courses.forEach(course => {
+                const courseDiv = document.createElement('div');
+                courseDiv.innerHTML = `
+                    <div class="font-bold text-gray-800 bg-gray-200 p-2 rounded cursor-pointer" onclick="toggleFiles('${lvl}','${sem}','${course}')">
+                        📁 ${course}
+                    </div>
+                    <ul id="files-${lvl}-${sem}-${course}" class="pl-4 mt-2 space-y-1 text-sm text-blue-600 hidden"></ul>
+                `;
+                container.appendChild(courseDiv);
+            });
+        }
+
+        async function toggleFiles(lvl, sem, course) {
+            const list = document.getElementById(`files-${lvl}-${sem}-${course}`);
+            if (!list.classList.contains('hidden')) {
+                list.classList.add('hidden');
+                return;
+            }
+
+            const res = await fetch(`/get_files/${lvl}/${sem}/${course}`);
+            const data = await res.json();
+            list.innerHTML = "";
+            data.files.forEach(f => {
+                list.innerHTML += `<li><a href="/download/${lvl}/${sem}/${course}/${f}" class="hover:underline">📄 ${f}</a></li>`;
+            });
+            list.classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>

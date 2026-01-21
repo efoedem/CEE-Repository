@@ -1,40 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="056cf8fd-f0ca-4528-a4e9-dad30ef46bd0" name="Changes" comment="" />
+    <list default="true" id="056cf8fd-f0ca-4528-a4e9-dad30ef46bd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/STUDY_MATERIALS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_100/Sem_1/ENGINEERING MATHS 1/BREAKDOWN IN GASES 5556.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/AC4D Modulation basics (3).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/Analog introduction to comm system.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/Chapt. 1 Analog Introduction to Comm Systems.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/Chapt. 2 Signal and Spectra Analysis.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/Chapt. 4 Linear Modulation Fundamental.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/Chapt. 5 Angle Modulation Fundamental.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/ELNG 307 -Analog and Digital communications main.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/ANALOGUE AND DIGITAL COMMUNICATIONS/Textbook.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/CONTROL SYSTEMS/Control Systems Engineering, 6th Edition.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/CONTROL SYSTEMS/LECTURE-1  INTRODUCTION TO CLASSICAL CONTROL SYSTEMS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/CONTROL SYSTEMS/LECTURE-2     CONTROL SYSTEM MODELING.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/CONTROL SYSTEMS/LECTURE-3  TRANSFER FUNCTION.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/Adobe Scan 09 May 2023.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/ELECTRONICS 2019 (MDK).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/Electronic 11th.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230208-WA0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230208-WA0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230208-WA0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230208-WA0075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230208-WA0079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230208-WA0080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230315-WA0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230324-WA0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230324-WA0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230324-WA0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/IMG-20230510-WA0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/LINEAR PAST QUESTIONS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/LINEAR. HELPER.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/Linear Electronics  Exam Passqo (mdk).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/Question 3A.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/Textbook- Linear Electronic Circiuts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/linear electronics CENG 303 copy 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/LINEAR ELECTRONIC CIRCUITS/linear electronics CENG 303.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/NUMERICAL METHEDS FOR ENGINEERS/ASSIGNMENT 2 ENG.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/NUMERICAL METHEDS FOR ENGINEERS/An_Introduction_to_Numerical_Methods_and_Analysis_PDFDrive_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/NUMERICAL METHEDS FOR ENGINEERS/NUMERICAL ASSIGNMENT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER ELECTRONICS/2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER ELECTRONICS/AC_TO_DC_CONVERTER_EVWYEF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER ELECTRONICS/POWER ELECTRONICS.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER ELECTRONICS/power-electronics-by-daniel-hart.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER ELECTRONICS/~$POWER ELECTRONICS.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER GEN, DIST. &amp; TRANS/Chapter4EconomicDispatch.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER GEN, DIST. &amp; TRANS/L1_Introduction to PGTD.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER GEN, DIST. &amp; TRANS/L2_POWER GENERATION.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER GEN, DIST. &amp; TRANS/POWER MIDSEM EXAM.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/POWER GEN, DIST. &amp; TRANS/Unit Commitment.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/1st+examToday(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/2014-ACTM-State-Statistics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/Assignment.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/Book 2023-02-15 08.17-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/Book 2023-02-15 08.17.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/DeCoursey-EXCEL-Statistics-and-Probability-for-Engineering-Applications.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230208-WA0081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230208-WA0082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230208-WA0083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230208-WA0084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230413-WA0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230413-WA0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/IMG-20230413-WA0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/PQ300_PROBABILITY AND STATISTICS FOR ENGINEERS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/STAT309 2021 GENERAL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/STAT_309_MIDSEM_APRIL 2022_SOLUTION.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/Schaum's Outline of Probability and Statistics, 3rd Ed. (Schaum's Outline Series) ( PDFDrive ).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/basic-concepts-of-statistics-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/edu-exam-p-sample-quest.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/edu-exam-p-sample-sol.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Level_300/Sem_1/PROBABILITY AND STATISTICS FOR ENGINEERS/probability.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "efoedem"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="606a93ff-cc28-4261-90c6-e43ffddd8a27" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:efoedem/STUDY_MATERIALSS.git",
+    "accountId": "606a93ff-cc28-4261-90c6-e43ffddd8a27"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="38UpxoWS1UFZQZ93RWUTKAbWud7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/STUDY_MATERIALS/uploads/Level_300/Sem_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS\uploads\Level_300\Sem_1" />
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS\uploads\Level_300\Sem_1\PROBABILITY AND STATISTICS FOR ENGINEERS" />
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS\uploads\Level_300\Sem_1\NUMERICAL METHEDS FOR ENGINEERS" />
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS\uploads\Level_300\Sem_1\LINEAR ELECTRONIC CIRCUITS" />
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS\uploads\Level_300\Sem_1\CONTROL SYSTEMS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS" />
+      <recent name="C:\Users\DELL\PycharmProjects\STUDY_MATERIALS\uploads\Level_100\Sem_1\ENGINEERING MATHS 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="STUDY_MATERIALS" type="Python.FlaskServer">
+      <module name="STUDY_MATERIALS" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,7 +237,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768864252600</updated>
-      <workItem from="1768864253749" duration="2000" />
+      <workItem from="1768864253749" duration="289000" />
+      <workItem from="1768864838350" duration="1112000" />
+      <workItem from="1768929278098" duration="814000" />
     </task>
     <servers />
   </component>
